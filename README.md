@@ -24,7 +24,7 @@ Welcome! we hope you enjoy the site as much as we enjoyed making it.
 
 # Demo
 
-[Live Demo](http://appmedfit.s3-website.us-east-2.amazonaws.com/)
+[Live Demo](https://medfit.vercel.app)
 
 <br/>
 
